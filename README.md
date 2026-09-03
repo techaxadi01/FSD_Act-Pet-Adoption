@@ -1,5 +1,7 @@
 # Pet Adoption Information Card
 
+🚀 **Live Demo:** [https://pet-adoption-navy-nu.vercel.app/](https://pet-adoption-navy-nu.vercel.app/)
+
 A React web application for creating and managing pet adoption profile cards, designed with a retro "kennel tag & vet record" aesthetic. It runs a full SQLite database in the browser via WebAssembly (`sql.js`).
 
 ## Features
@@ -28,8 +30,8 @@ A React web application for creating and managing pet adoption profile cards, de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pet-adoption-card.git
-   cd pet-adoption-card
+   git clone https://github.com/techaxadi01/FSD_Act-Pet-Adoption.git
+   cd FSD_Act-Pet-Adoption
    ```
 
 2. Install dependencies:
